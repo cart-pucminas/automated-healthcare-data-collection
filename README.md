@@ -40,5 +40,5 @@ your_api_key_here
 
 Run the script with Python:
 ```bash
-python main.py
+python Code.py
 ```
