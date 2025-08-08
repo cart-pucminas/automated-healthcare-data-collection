@@ -99,3 +99,27 @@ The script will:
 - `util.py`: Contains utility functions
 - `table_extractor.py`: Extracts tabular data
 - `csv_analyzer.py`: Analyzes CSV similarity
+
+## Links mentioned in the article:
+### Static Solution
+```link
+https://bvsms.saude.gov.br/malaria-5/*
+https://revistapesquisa.fapesp.br/o-mapa-das-hepatites/
+https://pt.wikipedia.org/wiki/Desfloresta%C3%A7%C3%A3o#:~:text=Desfloresta%C3%A7%C3%A3o%2C%20desflorestamento%2C%20desmate%20ou%20desmatamento,ou%20fun%C3%A7%C3%A3o%20de%20uma%20floresta.
+https://www.saude.pr.gov.br/Pagina/Febre-Maculosa
+https://bvsms.saude.gov.br/febre-amarela/
+https://bvsms.saude.gov.br/hiv-e-aids/*
+https://bvsms.saude.gov.br/meningite/
+https://pt.wikipedia.org/wiki/Protestos_estudantis_indon%C3%A9sios_de_2025
+https://bvsms.saude.gov.br/infeccao-pelo-virus-zika/
+https://bvsms.saude.gov.br/febre-de-chikungunya/
+ https://bvsms.saude.gov.br/hipertensao-18/",
+https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial*
+https://bvsms.saude.gov.br/diabetes/
+https://pt.wikipedia.org/wiki/C%C3%A1lculo_diferencial
+https://g1.globo.com/
+```
+### Dynamic Solution
+```link
+https://vizhub.healthdata.org/gbd-results/
+```
